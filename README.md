@@ -20,7 +20,8 @@ We will detail below the list of required features that must be implemented. Be 
 
 The application will rely on two main features:
 
-1-to-1 chat. In this feature a person using the application will send an addressed message to a specific destination.
-1-to-many chat. In this feature a person using the application will
+* 1-to-1 chat. In this feature a person using the application will send an addressed message to a specific destination.
+
+* 1-to-many chat. In this feature a person using the application will
 send a message addressed to the group itself. This message is broadcast
 to all members found in the specific group.
