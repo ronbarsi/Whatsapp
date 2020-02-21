@@ -8,9 +8,11 @@ Semester A, 2019-2020
 ```
 
 ## Assignment 2 - The Actor Model using Akka
+```
 Published: 25.11.2019
 Due: 25.12.2019 23:59
 https://www.cs.bgu.ac.il/~majeek/atd/201/assignments/2/
+```
 
 In this assignment we will be implementing a textual-based WhatsApp! clone. It will contain most of the features of the application. Make sure to imeplement it in Akka, preferebly using Java.
 
