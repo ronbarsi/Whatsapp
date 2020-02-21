@@ -1,9 +1,9 @@
 # Assignment 2 - The Actor Model using Akka
 
 ### Written by
-Gad Elbaz -  204362248
+Gad Elbaz 
 
-Ron Barsimantov -  203574082
+Ron Barsimantov
 
 ##
 
